@@ -1,4 +1,4 @@
-# COMMENT-FABRIQUER-UN-SYSTEME-DE-TELECOMMANDE-VERSION1--SEEEDUINO-XIAO-NRF24L01--DFTA150
+# Systeme-Telecommande-DIY-Seeeduino-Xiao-NRF24L01-V1-DFTA150
 Version Breadboard basique émetteur récepteur
 Cette petite vidéo pour vous montrer pour l’instant sur Breadboard un émetteur récepteur Tout ou Rien avec 2 Seeeduino XIAO et 2 modules émetteur/récepteur NRF24L01.
 Je pense que cette vidéo sera suivie d’autres sur le même sujet.
